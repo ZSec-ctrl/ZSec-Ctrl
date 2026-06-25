@@ -18,7 +18,7 @@
 - 🟣 **Purple Team Intern** at Cyberster
 - 🔍 Passionate about **Cyber Threat Intelligence & Secure Development**
 - 🛠️ Currently building tools at the intersection of **offense and defense**
-- 📚 Always learning — certs, CTFs, and everything in between
+- 📚 Always learning — the threat landscape waits for no one
 
 ---
 
