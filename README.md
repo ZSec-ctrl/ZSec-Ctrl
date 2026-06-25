@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ffd6e0,fff3b0,ffecd2&height=200&section=header&text=Hi%20%F0%9F%91%8B%20I%27m%20Zainab&fontSize=50&fontColor=c9a0a0&animation=twinkling&fontAlignY=38&desc=Where%20analytical%20thinking%20meets%20adversarial%20mindset&descSize=16&descAlignY=58&descColor=a89060" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ffd6e0,fff3b0,ffecd2&height=200&section=header&text=I%27m%20Zainab&fontSize=50&fontColor=c9a0a0&animation=twinkling&fontAlignY=38&desc=Where%20analytical%20thinking%20meets%20adversarial%20mindset&descSize=16&descAlignY=58&descColor=a89060" width="100%"/>
 
 <!-- Visitor Counter -->
 <p align="left">
