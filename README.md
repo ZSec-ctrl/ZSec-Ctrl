@@ -1,7 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ffd6e0,fff3b0,ffecd2&height=200&section=header&text=Hi 👋 I'm Zainab&fontSize=50&fontColor=c9a0a0&animation=twinkling&fontAlignY=38&desc=Where%20analytical%20thinking%20meets%20adversarial%20mindset&descSize=16&descAlignY=58&descColor=a89060" width="100%"/>
+
 <!-- Visitor Counter -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ZSec&color=ffb7c5&style=flat&label=profile+views" alt="ZSec" />
+  <img src="https://komarev.com/ghpvc/?username=ZSec-Ctrl&color=ffb7c5&style=flat&label=profile+views" alt="ZSec-Ctrl" />
 </p>
 
 ---
@@ -31,12 +32,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZSec&show_icons=true&theme=rose_pine&hide_border=true&title_color=ffb7c5&icon_color=f5d77e&text_color=e8d5d5&bg_color=1a1a2e" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZSec&layout=compact&theme=rose_pine&hide_border=true&title_color=ffb7c5&text_color=e8d5d5&bg_color=1a1a2e" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZSec-Ctrl&show_icons=true&theme=rose_pine&hide_border=true&title_color=ffb7c5&icon_color=f5d77e&text_color=e8d5d5&bg_color=1a1a2e" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZSec-Ctrl&layout=compact&theme=rose_pine&hide_border=true&title_color=ffb7c5&text_color=e8d5d5&bg_color=1a1a2e" width="40%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZSec&theme=rose_pine&hide_border=true&ring=ffb7c5&fire=f5d77e&currStreakLabel=ffb7c5&background=1a1a2e" width="50%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZSec-Ctrl&theme=rose_pine&hide_border=true&ring=ffb7c5&fire=f5d77e&currStreakLabel=ffb7c5&background=1a1a2e" width="50%" />
 </p>
 
 ---
@@ -49,4 +50,5 @@
 </p>
 
 ---
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ffd6e0,fff3b0,ffecd2&height=100&section=footer" width="100%"/>
