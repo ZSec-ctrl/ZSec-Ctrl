@@ -50,7 +50,7 @@
 ### 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ZSec/ZSec/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/ZSec-Ctrl/ZSec-Ctrl/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
