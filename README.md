@@ -10,7 +10,6 @@
 ### 🌸 About Me
 
 - 🎓 BS Cybersecurity student @ **Air University Islamabad**
-- 🟣 **Purple Team Intern** at Cyberster
 - 🔍 Passionate about **Cyber Threat Intelligence & Secure Development**
 - 🛠️ Currently building tools at the intersection of **offense and defense**
 - 📚 Always learning — the threat landscape waits for no one
