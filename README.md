@@ -1,14 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ffd6e0,fff3b0,ffecd2&height=200&section=header&text=Zainab&fontSize=50&fontColor=c9a0a0&animation=twinkling&fontAlignY=38&desc=Where%20analytical%20thinking%20meets%20adversarial%20mindset&descSize=16&descAlignY=58&descColor=a89060" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ffd6e0,fff3b0,ffecd2&height=200&section=header&text=Hi 👋 I'm Zainab&fontSize=50&fontColor=c9a0a0&animation=twinkling&fontAlignY=38&desc=Where%20analytical%20thinking%20meets%20adversarial%20mindset&descSize=16&descAlignY=58&descColor=a89060" width="100%"/>
 <!-- Visitor Counter -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ZSec&color=ffb7c5&style=flat&label=profile+views" alt="ZSec" />
-</p>
-
-<!-- Header -->
-<h1 align="center">Hi 👋 I'm Zainab</h1>
-
-<p align="center">
-  <em>Where analytical thinking meets adversarial mindset.</em>
 </p>
 
 ---
