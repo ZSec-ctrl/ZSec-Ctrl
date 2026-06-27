@@ -31,8 +31,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZSec-Ctrl&show_icons=true&theme=rose_pine&hide_border=true&title_color=ffb7c5&icon_color=f5d77e&text_color=e8d5d5&bg_color=1a1a2e&count_private=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZSec-Ctrl&layout=compact&theme=rose_pine&hide_border=true&title_color=ffb7c5&text_color=e8d5d5&bg_color=1a1a2e" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZSec-Ctrl&show_icons=true&theme=rose_pine&hide_border=true&title_color=ffb7c5&icon_color=f5d77e&text_color=e8d5d5&bg_color=1a1a2e" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZSec-Ctrl&layout=donut&theme=rose_pine&hide_border=true&title_color=ffb7c5&text_color=e8d5d5&bg_color=1a1a2e" width="40%" />
 </p>
 
 <p align="center">
