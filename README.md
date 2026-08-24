@@ -7,11 +7,11 @@
 
 ---
 
-### 🌸 About Me
+### 🎓 About Me
 
-- 🎓 BS Cybersecurity student @ **Air University Islamabad**
-- 🔍 Passionate about **Cyber Threat Intelligence & Secure Development**
-- ☕ Offense informs defense. I live in the space between 
+-  BS Cybersecurity student @ **Air University Islamabad**
+-  Passionate about **Cyber Threat Intelligence & Secure Development**
+-  Offense informs defense. I live in the space between 
 
 ---
 
