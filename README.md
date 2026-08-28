@@ -15,24 +15,8 @@
 
 ---
 
-### 🎯 What I Build
-
-<table>
-<tr>
-<td align="center" width="33%">
-<b>🔴 Recon & Offense</b><br/><br/>
-Web recon tools,<br/>threat surface mapping
-</td>
-<td align="center" width="33%">
-<b>🔵 Defense & Detection</b><br/><br/>
-Log analysis, threat detection,<br/>secure application development
-</td>
-<td align="center" width="33%">
-<b>🟣 Purple Team</b><br/><br/>
-Bridging both sides — building what<br/>attackers use, defending against it
-</td>
-</tr>
-</table>
+🎯 What I Build
+<table> <tr> <td align="center" width="33%" style="border-top:4px solid #FF8FA3;"> <br/> <div style="font-size:28px;">🔴</div> <b>Recon & Offense</b><br/><br/> Web recon tools,<br/>threat surface mapping <br/><br/> </td> <td align="center" width="33%" style="border-top:4px solid #F5D77E;"> <br/> <div style="font-size:28px;">🔵</div> <b>Defense & Detection</b><br/><br/> Log analysis, threat detection,<br/>secure application development <br/><br/> </td> <td align="center" width="33%" style="border-top:4px solid #C9A6FF;"> <br/> <div style="font-size:28px;">🟣</div> <b>Purple Team</b><br/><br/> Bridging both sides — building what<br/>attackers use, defending against it <br/><br/> </td> </tr> </table>
 
 ---
 
